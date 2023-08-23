@@ -1,7 +1,12 @@
 # 简介
 ChatFlow 一个基于流程引擎实现的对话系统，可以整合ChatGPT等大语言模型以及业务系统API的能力，实现大语言模型在具体业务场景落地使用。使用流程设计的方式实现快速设计、快速响应需求。
 
-本库提供windows 、linus和mac 的amd64版本下载。
+提供windows 、linus和mac 的amd64版本下载。
+
+关注公众号，回复"chatflow" 获取下载地址
+<img src="img/qrcode.jpg"  />
+
+
 
 
 # 以下是系统的使用说明：
